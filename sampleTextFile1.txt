@@ -1,3 +1,4 @@
 This is a sample text file,text is ok
 file is modified
 some new code changes
+updating directly on remote repo
